@@ -1,2 +1,2 @@
 # Classification_Model
-Creating a simple classification model.
+Creating a simple classification model
